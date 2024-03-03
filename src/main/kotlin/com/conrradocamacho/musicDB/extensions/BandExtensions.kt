@@ -1,2 +1,2 @@
-package org.example.com.conrradocamacho.musicDB.extensions
+package com.conrradocamacho.musicDB.extensions
 

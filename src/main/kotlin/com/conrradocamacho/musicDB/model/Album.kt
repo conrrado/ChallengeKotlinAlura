@@ -1,4 +1,4 @@
-package org.example.com.conrradocamacho.musicDB.model
+package com.conrradocamacho.musicDB.model
 
 data class Album(
     val title: String = "Title of album",

@@ -1,7 +1,7 @@
-package org.example.com.conrradocamacho.musicDB.main
+package com.conrradocamacho.musicDB.main
 
-import org.example.com.conrradocamacho.musicDB.model.Album
-import org.example.com.conrradocamacho.musicDB.model.Band
+import com.conrradocamacho.musicDB.model.Album
+import com.conrradocamacho.musicDB.model.Band
 
 fun main() {
     val titas = Band("Titãs")

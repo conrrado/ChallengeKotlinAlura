@@ -1,4 +1,4 @@
-package org.example.com.conrradocamacho.musicDB.model
+package com.conrradocamacho.musicDB.model
 
 class Band(
     val name: String = "Name of the band",
