@@ -9,7 +9,7 @@ class AlbumEntity(
     val title: String = "Title of the album",
 
     @ManyToOne
-    val band: BandEntity,
+    val band: BandEntity = BandEntity(),
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
